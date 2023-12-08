@@ -1,0 +1,27 @@
+{
+  "title": "Waterlight",
+  "date": "2023-10-10T00:00:00.000Z",
+  "slug": "waterlight",
+  "notionId": "f80a8f37-5980-476f-ade2-62704946460d",
+  "tags": [],
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/images/portfolio/3 near notre dame.JPG",
+    "type": "Image",
+    "_raw": {}
+  },
+  "body": {
+    "raw": "\nSunrise over the Seine river \n\n",
+    "html": "<p>Sunrise over the Seine river</p>"
+  },
+  "_id": "portfolio/waterlight.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/waterlight.md",
+    "sourceFileName": "waterlight.md",
+    "sourceFileDir": "portfolio",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/waterlight"
+  },
+  "type": "Portfolio"
+}

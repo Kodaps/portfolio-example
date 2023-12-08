@@ -1,0 +1,27 @@
+{
+  "title": "A new beginning",
+  "date": "2023-03-27T00:00:00.000Z",
+  "slug": "a-new-beginning",
+  "notionId": "f6fa70a5-0541-427f-9eef-81b7503ca34d",
+  "tags": [],
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/images/portfolio/5 behind notre dame.jpg",
+    "type": "Image",
+    "_raw": {}
+  },
+  "body": {
+    "raw": "\nRebuilding is underway on Notre Dame cathedral \n\n",
+    "html": "<p>Rebuilding is underway on Notre Dame cathedral</p>"
+  },
+  "_id": "portfolio/a-new-beginning.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/a-new-beginning.md",
+    "sourceFileName": "a-new-beginning.md",
+    "sourceFileDir": "portfolio",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/a-new-beginning"
+  },
+  "type": "Portfolio"
+}

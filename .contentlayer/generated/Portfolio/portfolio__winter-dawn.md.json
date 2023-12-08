@@ -1,0 +1,27 @@
+{
+  "title": "Winter dawn",
+  "date": "2023-01-17T00:00:00.000Z",
+  "slug": "winter-dawn",
+  "notionId": "6008fdc9-565c-49c4-9f17-7f6f92087eb0",
+  "tags": [],
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/images/portfolio/4 ile de la cite.jpg",
+    "type": "Image",
+    "_raw": {}
+  },
+  "body": {
+    "raw": "\nThe sun is rising on l’Ile de la Cité\n\n",
+    "html": "<p>The sun is rising on l’Ile de la Cité</p>"
+  },
+  "_id": "portfolio/winter-dawn.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/winter-dawn.md",
+    "sourceFileName": "winter-dawn.md",
+    "sourceFileDir": "portfolio",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/winter-dawn"
+  },
+  "type": "Portfolio"
+}

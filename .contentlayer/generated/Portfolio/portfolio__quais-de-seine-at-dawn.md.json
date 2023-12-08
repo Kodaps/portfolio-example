@@ -1,0 +1,27 @@
+{
+  "title": "Quais de Seine at dawn",
+  "date": "2023-02-14T00:00:00.000Z",
+  "slug": "quais-de-seine-at-dawn",
+  "notionId": "49403a2a-24db-4999-98eb-5af9f3ac3b3b",
+  "tags": [],
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/images/portfolio/1 quai de seine.JPG",
+    "type": "Image",
+    "_raw": {}
+  },
+  "body": {
+    "raw": "\nThis photo was taken on the way to work while crossing the bridge called “Pont de l’Archevéché.”\n\n",
+    "html": "<p>This photo was taken on the way to work while crossing the bridge called “Pont de l’Archevéché.”</p>"
+  },
+  "_id": "portfolio/quais-de-seine-at-dawn.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/quais-de-seine-at-dawn.md",
+    "sourceFileName": "quais-de-seine-at-dawn.md",
+    "sourceFileDir": "portfolio",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/quais-de-seine-at-dawn"
+  },
+  "type": "Portfolio"
+}

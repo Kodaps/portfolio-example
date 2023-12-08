@@ -1,0 +1,27 @@
+{
+  "title": "Vertical light",
+  "date": "2023-07-10T00:00:00.000Z",
+  "slug": "vertical-light",
+  "notionId": "97367a72-5df3-4205-ab6f-963ac3472b0f",
+  "tags": [],
+  "image": {
+    "width": 1080,
+    "height": 1920,
+    "src": "/images/portfolio/2 pont ste genevieve.JPG",
+    "type": "Image",
+    "_raw": {}
+  },
+  "body": {
+    "raw": "\nOn the Pont Sainte Geneviève, over the Seine River, near the Ile Saint Louis (one of Paris’ two islands) \n\n",
+    "html": "<p>On the Pont Sainte Geneviève, over the Seine River, near the Ile Saint Louis (one of Paris’ two islands)</p>"
+  },
+  "_id": "portfolio/vertical-light.md",
+  "_raw": {
+    "sourceFilePath": "portfolio/vertical-light.md",
+    "sourceFileName": "vertical-light.md",
+    "sourceFileDir": "portfolio",
+    "contentType": "markdown",
+    "flattenedPath": "portfolio/vertical-light"
+  },
+  "type": "Portfolio"
+}
